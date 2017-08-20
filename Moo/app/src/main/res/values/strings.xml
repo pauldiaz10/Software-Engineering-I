@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moo2</string>
+    <string name="signup_error_message">error</string>
+    <string name="signup_error_title">errorMessage</string>
+</resources>
